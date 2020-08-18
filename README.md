@@ -1,4 +1,4 @@
-# myvuedemo
+# cubedemo
 
 
 ## Project setup
