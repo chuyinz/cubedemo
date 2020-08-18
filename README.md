@@ -1,12 +1,5 @@
 # myvuedemo
 
-#### a demo to practice vue.
-
-##### version instruction:
-
-20200817:
-
-combine the application of navi-menu, partial rendering, v-bind for class, incline-block(css), etc
 
 ## Project setup
 ```
