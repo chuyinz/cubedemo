@@ -1,7 +1,10 @@
 import Vue from 'vue'
+import './cube-ui'
+import './cube-ui'
 import App from './App.vue'
-import './plugins/element.js'
 import router from './router'
+import 'amfe-flexible'
+
 
 Vue.config.productionTip = false
 

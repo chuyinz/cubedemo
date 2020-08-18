@@ -19,18 +19,12 @@
 </template>
 
 <script>
-import guide from './components/guide.vue'
-import DefaultPage from "@/components/DefaultPage";
-import headnav from "@/components/headnav";
-import sidenav from "@/components/sidenav";
+
 
 export default {
   name: 'app',
   components: {
-    DefaultPage,
-    guide,
-    sidenav,
-    headnav,
+
   }
 }
 </script>

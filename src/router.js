@@ -1,21 +1,14 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-
-import DefaultPage  from "@/components/DefaultPage";
-import guide from "@/components/guide";
+import CubeTest from "@/components/CubeTest";
 Vue.use(Router)
 
 export default new Router({
     routes:[
         {
             path:'/',
-            name:'DefaultPage',
-            component:DefaultPage
-        },
-        {
-            path:'/guide',
-            name:'guide',
-            component: guide
+            name:'CubeTest',
+            component:CubeTest
         }
     ]
     }
